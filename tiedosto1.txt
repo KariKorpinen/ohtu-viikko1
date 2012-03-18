@@ -1,0 +1,3 @@
+﻿tiedosto 1
+toinen kerta
+kolmas kerta
