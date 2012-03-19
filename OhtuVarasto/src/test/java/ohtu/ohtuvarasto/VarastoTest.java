@@ -136,7 +136,7 @@ public class VarastoTest {
         varasto = new Varasto(10,10);
         String merkki=varasto.toString();
         //assertEquals("saldo = 10 , vielä tilaa 0",merkki);
-        assertEquals("saldo = " + varasto.getSaldo() + ", vielä tilaa " + varasto.paljonkoMahtuu(),merkki);
+        assertEquals("saldo2 = " + varasto.getSaldo() + ", vielä tilaa " + varasto.paljonkoMahtuu(),merkki);
         // varastossa pitäisi olla tilaa 10 - 8 + 12 eli 14
         //assertEquals(10, varasto.paljonkoMahtuu(), vertailuTarkkuus);
     }
