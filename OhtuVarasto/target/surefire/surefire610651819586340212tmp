@@ -1,0 +1,31 @@
+#surefire
+#Mon Mar 19 14:20:34 EET 2012
+testClassesDirectory=C\:\\Users\\Kari Korpinen\\documents\\ohjelmointi\\kloonirepo\\ohtuvarasto\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Kari Korpinen\\.m2\\repository\\net\\sourceforge\\cobertura\\cobertura\\1.9.4.1\\cobertura-1.9.4.1.jar
+classPathUrl.3=C\:\\Users\\Kari Korpinen\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.1\\hamcrest-core-1.1.jar
+classPathUrl.2=C\:\\Users\\Kari Korpinen\\.m2\\repository\\junit\\junit\\4.10\\junit-4.10.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\Kari Korpinen\\documents\\ohjelmointi\\kloonirepo\\ohtuvarasto\\target\\generated-classes\\cobertura
+reportsDirectory=C\:\\Users\\Kari Korpinen\\documents\\ohjelmointi\\kloonirepo\\ohtuvarasto\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\Kari Korpinen\\documents\\ohjelmointi\\kloonirepo\\ohtuvarasto\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Kari Korpinen\\documents\\ohjelmointi\\kloonirepo\\ohtuvarasto\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Kari Korpinen\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\Kari Korpinen\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.7.1\\surefire-junit4-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=C\:\\Users\\Kari Korpinen\\documents\\ohjelmointi\\kloonirepo\\ohtuvarasto\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.6=C\:\\Users\\Kari Korpinen\\.m2\\repository\\org\\apache\\ant\\ant-launcher\\1.7.0\\ant-launcher-1.7.0.jar
+classPathUrl.5=C\:\\Users\\Kari Korpinen\\.m2\\repository\\org\\apache\\ant\\ant\\1.7.0\\ant-1.7.0.jar
